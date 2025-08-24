@@ -1,3 +1,6 @@
+#
+#自动化刷抖音
+#
 import threading
 import time
 import pyautogui
