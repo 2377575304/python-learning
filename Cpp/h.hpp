@@ -1,0 +1,22 @@
+// 1. 关键字宏定义（用QoK前缀，避免与普通标识符冲突）
+#define QoK000 int       // 关键字int
+#define QoK001 void      // 关键字void
+#define QoK002 bool      // 关键字bool
+#define QoK003 double    // 关键字double
+#define QoK004 const     // 关键字const
+#define QoK005 return    // 关键字return
+#define QoK006 if        // 关键字if
+#define QoK007 else      // 关键字else
+#define QoK008 for       // 关键字for
+#define QoK009 while     // 关键字while
+#define QoK010 do        // 关键字do
+#define QoK011 break     // 关键字break
+#define QoK012 class     // 关键字class
+#define QoK013 private   // 关键字private
+#define QoK014 public    // 关键字public
+#define QoK015 switch    // 关键字switch
+#define QoK016 case      // 关键字case
+#define QoK017 default   // 关键字default
+#define QoK018 true      // 关键字true
+#define QoK019 false     // 关键字false
+#define QoK020 nullptr   // 关键字nullptr
